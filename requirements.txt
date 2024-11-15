@@ -1,0 +1,10 @@
+pandas
+gensim
+torch
+networkx==2.5
+matplotlib
+javalang
+numpy
+psutil
+scikit-learn
+nodevectors

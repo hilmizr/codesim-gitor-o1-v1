@@ -1,0 +1,964 @@
+2024-11-14 10:25:42,766 - INFO - Preprocessing Java files for Word2Vec training...
+2024-11-14 10:25:42,772 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\01\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,773 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\02\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,775 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\03\Nomor1_2451041557A22145B3701B0184109CAB013.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,776 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\04\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,779 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\05\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,781 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,782 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\06\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,783 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\08\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,786 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\09\t01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,788 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\13\No1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,789 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\10\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,791 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\12\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,791 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\11\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,793 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,795 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\15\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,796 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,798 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\original\T1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,800 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,802 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,804 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\04\T1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,805 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\06\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,807 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,809 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\05\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,812 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\01\L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,814 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,815 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\03\WelcomeToJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,817 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\09\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,818 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\08\Kasus1L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,820 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\04\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,822 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\01\L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,824 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\05\PrintJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,832 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,834 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\03\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,835 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\04\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,838 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\06\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,839 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\01\L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,841 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\05\Kasus1L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,843 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,846 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\04\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,848 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\05\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,850 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,852 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\06\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,853 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\01\L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,855 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,856 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\03\WelcomeToJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,858 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\04\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,860 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\05\PrintJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,861 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\01\L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,863 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,865 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,866 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\05\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,868 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\04\WelcomeToJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,869 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\06\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,871 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\07\PrintJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,872 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\08\Kasus1L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,874 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\09\Level6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:42,875 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,877 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,879 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,880 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,882 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,883 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,885 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,886 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,887 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,889 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,890 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,891 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,893 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,894 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,895 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,897 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,898 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,900 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,902 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,904 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,906 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,907 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,908 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,911 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,913 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,914 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,916 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,916 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,918 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,919 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,920 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,921 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,923 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,925 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,926 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,927 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,929 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,930 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,931 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,932 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,934 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,936 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,937 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,938 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,940 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,942 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,943 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,945 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,946 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,948 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,949 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,950 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,952 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,953 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,954 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,956 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,957 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,959 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,959 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,962 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,963 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,965 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,966 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,967 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,969 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,970 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,971 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,973 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,974 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,975 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,976 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,978 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,980 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,981 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,983 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,985 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,986 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,988 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,990 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,991 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,994 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,996 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:42,999 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,001 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,004 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,005 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,007 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,009 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,011 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,012 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,014 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,016 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,017 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,020 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,021 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,024 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,026 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,029 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,031 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,034 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,036 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,038 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,040 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,042 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,043 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,045 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,047 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,048 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,050 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,052 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,054 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,057 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,059 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,061 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,063 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,066 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,068 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,071 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,073 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,075 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,077 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,080 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,083 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,086 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,089 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,092 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,094 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,096 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,098 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,100 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,102 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,105 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,107 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,108 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,111 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,114 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,116 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,119 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,156 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\01\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,160 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\02\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,162 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\04\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,164 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\03\Nomor4_2451041557A22145B3701B0184109CAB013.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,166 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,167 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,170 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,172 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\08\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,174 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\09\t04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,177 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,179 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\10\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,182 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,184 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\13\No4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,186 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,188 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\15\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,190 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\original\T4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,191 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,193 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,196 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,197 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,198 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,199 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,201 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,203 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\08\Kasus4L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,206 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\09\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,208 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\01\L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,210 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,212 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,214 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,215 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,218 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,220 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,222 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\08\Kasus4L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,224 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\09\Level2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,226 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\01\L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,228 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,230 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,232 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,233 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,234 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,236 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,237 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\08\Kasus4L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,239 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\09\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,242 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\01\L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,245 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,247 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,249 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,251 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,252 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,254 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,256 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\08\Kasus4L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,257 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\09\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,259 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,261 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\01\L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,264 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,267 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,268 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,269 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,271 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\08\Kasus4L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,273 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,274 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\09\Level5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,276 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\01\L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,278 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,280 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,281 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,283 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,284 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,286 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,288 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\08\Kasus4L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,290 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\09\Level6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,291 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,292 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,294 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,295 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,296 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,297 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,299 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,300 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,301 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,302 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,304 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,305 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,306 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,307 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,308 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,311 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\original\T5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,313 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,315 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,317 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,319 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,321 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,322 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,325 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\08\Kasus5L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,327 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,330 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\09\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,333 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\01\L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,335 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,337 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,338 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,341 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,342 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,343 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,345 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\08\Level2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,347 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\01\L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,349 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,351 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,354 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,355 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,357 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,358 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,360 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,363 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\09\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,365 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\01\L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,367 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,369 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,370 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,372 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,373 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,376 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,377 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,379 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\09\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,381 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\01\L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,382 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,384 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,387 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,388 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,390 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,392 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,393 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,394 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,397 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\01\L6_fix.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,398 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,400 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,402 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,404 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,405 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,407 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,409 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,411 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,412 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,414 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,415 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,417 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,418 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,419 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,421 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,422 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,424 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,426 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,427 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,430 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,432 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,433 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,435 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,438 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\original\T6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,442 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,444 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,448 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,450 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,451 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,455 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,459 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\07\Kasus6L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,462 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\08\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,464 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\01\L2_6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,467 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,469 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,471 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,473 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,475 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,477 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,479 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,481 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\08\Level2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,482 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,484 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L3\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,485 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,487 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,489 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L3\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,491 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,494 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L3\08\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,495 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,498 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,500 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,504 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\04\Kasus6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,505 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,507 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,510 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,512 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,513 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,515 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\09\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,518 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,520 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,524 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\04\Kasus6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,525 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,527 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,529 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,530 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,533 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,534 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,537 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,539 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,543 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\04\Kasus6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,544 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,546 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,549 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:25:43,550 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,552 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,553 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,555 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,557 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,558 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,560 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,562 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,564 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,565 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,567 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,568 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,570 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,571 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,573 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,575 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,577 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,578 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,580 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,581 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,583 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,585 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,586 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,588 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,590 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,591 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,593 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,594 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,596 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,598 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,599 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,601 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,603 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,605 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,606 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,608 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,609 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,610 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,612 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,615 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,616 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,618 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,619 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,621 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,623 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,626 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,627 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,629 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,630 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,632 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,634 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,636 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,638 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,639 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,641 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,643 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,644 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,646 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,647 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,650 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,651 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,653 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,654 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,657 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,659 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,660 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,662 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,664 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,665 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:25:43,674 - INFO - Preprocessing completed in 0.91 seconds.
+
+2024-11-14 10:25:43,674 - INFO - Training Word2Vec model...
+2024-11-14 10:25:43,675 - INFO - collecting all words and their counts
+2024-11-14 10:25:43,676 - INFO - collected 0 word types from a corpus of 0 raw words and 0 sentences
+2024-11-14 10:25:43,676 - INFO - Creating a fresh vocabulary
+2024-11-14 10:25:43,686 - INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 0 unique words (0.00% of original 0, drops 0)', 'datetime': '2024-11-14T10:25:43.676418', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'prepare_vocab'}
+2024-11-14 10:25:43,687 - INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 0 word corpus (0.00% of original 0, drops 0)', 'datetime': '2024-11-14T10:25:43.687400', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'prepare_vocab'}
+2024-11-14 10:25:43,688 - INFO - deleting the raw counts dictionary of 0 items
+2024-11-14 10:25:43,688 - INFO - sample=0.001 downsamples 0 most-common words
+2024-11-14 10:25:43,688 - INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 0 word corpus (0.0%% of prior 0)', 'datetime': '2024-11-14T10:25:43.688393', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'prepare_vocab'}
+2024-11-14 10:25:43,689 - INFO - estimated required memory for 0 words and 100 dimensions: 0 bytes
+2024-11-14 10:25:43,689 - INFO - resetting layer weights
+2024-11-14 10:25:43,690 - INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-11-14T10:25:43.690415', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'build_vocab'}
+2024-11-14 10:28:20,689 - INFO - Preprocessing Java files for Word2Vec training...
+2024-11-14 10:28:20,694 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\01\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,695 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\03\Nomor1_2451041557A22145B3701B0184109CAB013.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,696 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\02\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,699 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\05\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,701 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\04\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,703 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,704 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\06\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,705 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\08\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,707 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\10\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,709 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\09\t01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,711 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,712 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\11\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,713 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\12\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,714 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\15\T01.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,715 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\non-plagiarized\13\No1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,718 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\original\T1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,719 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,720 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,722 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,726 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\06\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,727 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\04\T1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,730 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\05\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,731 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,733 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\08\Kasus1L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,736 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\01\L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,737 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L1\09\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,738 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\03\WelcomeToJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,740 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,742 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\05\PrintJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,743 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L2\04\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,745 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\01\L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,752 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,754 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\03\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,756 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\05\Kasus1L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,758 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\06\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,759 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L3\04\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,762 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\01\L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,763 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,764 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,767 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\04\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,768 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\05\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,770 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L4\06\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,772 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\01\L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,773 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,775 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\03\WelcomeToJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,777 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\04\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,779 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L5\05\PrintJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,780 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\01\L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,782 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,784 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,785 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\04\WelcomeToJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,787 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\05\HelloWorld.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,789 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\06\hellow.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,791 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\07\PrintJava.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,793 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\08\Kasus1L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,795 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-01\plagiarized\L6\09\Level6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:20,796 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,797 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,798 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,800 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,802 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,803 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,804 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,806 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,808 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,809 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,810 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,812 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,813 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,815 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,816 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,818 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,819 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,821 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,822 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,823 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,825 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,828 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,829 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,830 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,832 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,833 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,834 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,836 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,837 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,838 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,840 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,842 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,843 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,844 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,845 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,847 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,848 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,850 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,851 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,853 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,854 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,855 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,857 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,859 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,861 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,863 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,865 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,865 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,868 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,870 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,871 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,873 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,875 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,877 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,878 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,880 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,881 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,882 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,884 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,885 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,887 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,888 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,890 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,893 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,894 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,895 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,897 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,898 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,900 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,901 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,903 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,906 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,908 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,911 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,913 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,915 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,917 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,919 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,921 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,923 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,929 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,932 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,934 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,937 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,941 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,943 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,945 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,947 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,949 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,952 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,955 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,958 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,961 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,963 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,965 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,968 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,972 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,975 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,978 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,981 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,984 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,986 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,989 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:20,994 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,000 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,003 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,006 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,009 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,013 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,016 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,019 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,024 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,028 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,030 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,033 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,035 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,038 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,050 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,059 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,070 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,081 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,100 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,106 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,114 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,129 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,139 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,151 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,160 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,170 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,175 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,179 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,185 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,189 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,196 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,198 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,200 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,201 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,203 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,205 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\01\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,210 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\02\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,216 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\03\Nomor4_2451041557A22145B3701B0184109CAB013.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,225 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\04\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,231 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,235 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,238 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,245 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\08\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,248 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\09\t04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,250 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\10\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,251 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,253 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,258 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\13\No4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,260 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,262 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\original\T4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,265 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\non-plagiarized\15\T04.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,269 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,271 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,274 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,277 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,279 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,281 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,283 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,287 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\08\Kasus4L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,290 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L1\09\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,292 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\01\L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,293 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,295 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,297 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,298 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,299 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,301 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,303 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\08\Kasus4L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,305 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L2\09\Level2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,312 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\01\L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,320 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,324 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,333 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,335 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,337 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,346 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,354 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\08\Kasus4L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,363 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L3\09\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,367 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\01\L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,377 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,386 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,394 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,400 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,406 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,416 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,425 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\08\Kasus4L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,432 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L4\09\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,446 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\01\L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,455 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,467 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,480 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,484 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,489 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,500 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,509 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\08\Kasus4L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,515 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L5\09\Level5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,518 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\01\L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,524 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,530 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,534 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\04\Kasus4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,536 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,539 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,546 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,553 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\08\Kasus4L6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,557 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-04\plagiarized\L6\09\Level6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,560 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,563 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,566 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,569 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,574 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,577 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,581 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,583 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,586 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,590 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,593 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,597 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,599 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,603 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,607 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,611 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\original\T5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,614 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,616 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,619 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,622 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,623 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,624 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,627 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,664 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\08\Kasus5L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,666 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L1\09\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,669 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\01\L2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,672 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,674 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,676 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,677 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,680 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,681 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,683 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L2\08\Level2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,686 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\01\L3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,689 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,691 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,694 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,695 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,696 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,699 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,700 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,703 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L3\09\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,705 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\01\L4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,709 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,711 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,714 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,715 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,716 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,718 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,720 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,723 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L4\09\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,726 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\01\L5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,727 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,729 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,733 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,734 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,736 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,740 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L5\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,742 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,746 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\01\L6_fix.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,748 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,749 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,751 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,753 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,756 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\04\Kasus5.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,758 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,762 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-05\plagiarized\L6\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,764 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,766 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,768 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,770 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,772 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,773 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,776 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,777 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,778 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,780 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,781 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,782 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,783 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,785 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,787 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,789 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,791 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,793 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\original\T6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,796 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\01\L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,798 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,800 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,802 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,804 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,806 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,808 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\07\Kasus6L1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,811 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L1\08\Level1.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,813 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\01\L2_6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,816 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,818 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,819 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,820 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,822 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,823 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,825 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L2\08\Level2.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,826 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,829 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L3\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,830 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,831 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,832 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,833 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L3\06\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,835 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,838 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L3\08\Level3.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,839 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,841 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,843 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,846 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\04\Kasus6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,847 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,848 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,851 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,852 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,855 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L4\09\Level4.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,856 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,858 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,860 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,863 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\04\Kasus6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,864 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,865 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,868 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L5\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,870 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,871 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,872 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,874 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\02\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,876 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\03\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,879 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\04\Kasus6.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,880 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,882 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,884 - ERROR - Error processing file 'D:\MyITSAcademia2-Season1\RPL\code_repository\codesim-gitor-o1\IR-Plag-Dataset\case-06\plagiarized\L6\07\Main.java': module 'javalang.tree' has no attribute 'Block'
+2024-11-14 10:28:21,886 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,887 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,888 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,890 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,891 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,893 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,894 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,896 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,898 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,900 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,901 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,903 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,905 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,907 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,908 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,909 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,911 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,913 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,914 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,916 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,917 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,919 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,921 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,922 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,924 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,926 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,928 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,929 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,931 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,932 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,934 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,936 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,937 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,939 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,941 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,942 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,943 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,945 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,946 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,948 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,949 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,951 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,956 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,957 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,959 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,961 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,965 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,966 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,968 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,970 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,972 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,974 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,976 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,977 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,979 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,980 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,982 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,985 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,993 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:21,995 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,003 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,009 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,011 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,014 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,016 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,019 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,029 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,033 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,037 - ERROR - Java syntax error while parsing code: 
+2024-11-14 10:28:22,080 - INFO - Preprocessing completed in 1.39 seconds.
+
+2024-11-14 10:28:22,083 - INFO - Training Word2Vec model...
+2024-11-14 10:28:22,087 - INFO - collecting all words and their counts
+2024-11-14 10:28:22,089 - INFO - collected 0 word types from a corpus of 0 raw words and 0 sentences
+2024-11-14 10:28:22,091 - INFO - Creating a fresh vocabulary
+2024-11-14 10:28:22,121 - INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 0 unique words (0.00% of original 0, drops 0)', 'datetime': '2024-11-14T10:28:22.093421', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'prepare_vocab'}
+2024-11-14 10:28:22,123 - INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 0 word corpus (0.00% of original 0, drops 0)', 'datetime': '2024-11-14T10:28:22.123483', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'prepare_vocab'}
+2024-11-14 10:28:22,125 - INFO - deleting the raw counts dictionary of 0 items
+2024-11-14 10:28:22,126 - INFO - sample=0.001 downsamples 0 most-common words
+2024-11-14 10:28:22,127 - INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 0 word corpus (0.0%% of prior 0)', 'datetime': '2024-11-14T10:28:22.126405', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'prepare_vocab'}
+2024-11-14 10:28:22,127 - INFO - estimated required memory for 0 words and 100 dimensions: 0 bytes
+2024-11-14 10:28:22,129 - INFO - resetting layer weights
+2024-11-14 10:28:22,130 - INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-11-14T10:28:22.130443', 'gensim': '4.3.3', 'python': '3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'build_vocab'}
