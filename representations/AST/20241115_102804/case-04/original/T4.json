@@ -1,0 +1,8 @@
+{
+    "type": "CompilationUnit",
+    "package": null,
+    "imports": [],
+    "types": [
+        {
+            "type": "ClassDeclaration",
+            "modifiers": 

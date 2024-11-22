@@ -1,0 +1,21 @@
+{
+    "type": "CompilationUnit",
+    "package": null,
+    "imports": [
+        {
+            "type": "Import",
+            "path": "java.text.DecimalFormat",
+            "static": false,
+            "wildcard": false
+        },
+        {
+            "type": "Import",
+            "path": "java.text.NumberFormat",
+            "static": false,
+            "wildcard": false
+        }
+    ],
+    "types": [
+        {
+            "type": "ClassDeclaration",
+            "modifiers": 

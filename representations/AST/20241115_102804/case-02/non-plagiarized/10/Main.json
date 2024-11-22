@@ -1,0 +1,21 @@
+{
+    "type": "CompilationUnit",
+    "package": null,
+    "imports": [
+        {
+            "type": "Import",
+            "path": "java.sql.SQLOutput",
+            "static": false,
+            "wildcard": false
+        },
+        {
+            "type": "Import",
+            "path": "java.util.Scanner",
+            "static": false,
+            "wildcard": false
+        }
+    ],
+    "types": [
+        {
+            "type": "ClassDeclaration",
+            "modifiers": 
